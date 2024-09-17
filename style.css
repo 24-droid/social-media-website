@@ -768,7 +768,6 @@ main .container .left{
 .left .notifications-popup::before{
     display:absolute;
     top:1.3rem;
-    left:calc(20rem-0.6rem);
     display:block;
 }
 main .container .middle{
