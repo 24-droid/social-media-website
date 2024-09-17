@@ -790,5 +790,6 @@ main .container .right{
     margin-left:2rem;
 }
 .customize-theme .background .choose-bg{
-     gap:1rem;
+     display:flex;
+    justify-content:space-between;
  }
