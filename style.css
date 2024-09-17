@@ -786,3 +786,6 @@ main .container .right{
     object-fit:cover;
     
 }
+.feed .info{
+    margin-left:2rem;
+}
