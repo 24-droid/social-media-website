@@ -789,3 +789,6 @@ main .container .right{
 .feed .info{
     margin-left:2rem;
 }
+ .customize-theme .choose-bg{
+     gap:1rem;
+ }
