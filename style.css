@@ -780,4 +780,7 @@ main .container .right{
     
 }
 .feed .story .profile-picture img{
-    padding:auto;
+    width:50%;
+    height:50%;
+    border-radius:25%;
+}
