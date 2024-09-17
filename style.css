@@ -779,3 +779,5 @@ main .container .right{
     object-fit:cover;
     
 }
+.feed .story .profile-picture img{
+    padding:auto;
